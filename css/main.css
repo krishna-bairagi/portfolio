@@ -2149,7 +2149,7 @@ header{
 #stats {
 	background: #990047;
 	padding-top: 7.2rem;
-	padding-bottom: 6rem;
+	padding-bottom: 7rem;
 	text-align: center;
 }
 #stats .row {
@@ -2731,7 +2731,7 @@ main {
 }
 
 section {
-  margin-bottom: 40px;
+  margin-bottom: -1px;
 }
 
 h1, h2, h3 {
@@ -2809,6 +2809,6 @@ footer {
   color: #fff;
   text-align: center;
   padding: 20px;
-  margin: -41px 0px 0px 0px;
-  width: 100%;
+  margin: 0px;
+  
 }
